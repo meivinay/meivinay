@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meivinay
-- 👀 I’m interested in ... computers
-- 🌱 I’m currently learning ... WEBDEV
+- 👀 I’m interested in ... Web Dev
+- 🌱 I’m currently learning ... React
 - 📫 How to reach me ... https://www.linkedin.com/in/vinaytanwar96
 
 <!---
