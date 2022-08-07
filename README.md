@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meivinay
 - 👀 I’m interested in ... Javascript
-- 🌱 I’m currently developing features with ... collegedunia.com
+- 🌱 I’m currently developing features with collegedunia.com
 - 📫 How to reach me ... https://www.linkedin.com/in/vinaytanwar96
 
 <!---
